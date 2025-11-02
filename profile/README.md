@@ -1,25 +1,4 @@
-<p align="center">
-  <div style="
-    width:120px;
-    height:40px;
-    overflow:hidden;
-    border-radius:6px;
-    display:inline-block;
-    background:#fff;
-  ">
-    <img 
-      alt="AI2O logo"
-      src="AI2O_logo.png"
-      style="
-        width:auto;
-        height:100%;
-        margin-left:50%;
-        transform:translateX(-50%);
-      "
-    />
-  </div>
-</p>
-
+<img alt="ai2o logo" src="AI2O_logo.png" height="90" style="background:#FFF;padding:5px;border-radius:8px;"> 
 
 在 AI2O，我们专注于探索人工智能在组织、运营和现实世界中的前沿应用。作为 binrc 的创新实验室与开放社区平台，AI2O 致力于通过科研驱动、实验和开放协作推动技术进步。
 
